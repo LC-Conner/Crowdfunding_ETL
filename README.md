@@ -11,7 +11,7 @@
 - Exported both dataframes into CSV files
 
 
-## Part 2 (Emmanuel Emahazion, Sabrina Fernandez, Tisha Conner
+## Part 2 (Emmanuel Emahazion, Sabrina Fernandez, Tisha Conner)
 ***
 - Created a new DataFrame named Campaign_df
 - Converted the goal and pledged columns to a float
