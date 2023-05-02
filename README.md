@@ -1,7 +1,7 @@
 # PROJECT 2
 
 
-## Part 1 (Emmanuel Emahazion, Sabrina Fernandez, Tisha Conner)
+## Part 1 (Emanuel Emahazion, Sabrina Fernandez, Tisha Conner)
 ***
 - Pulled the excel into the Jupyter Notebook
 - Then we separated the category and subcategory columns
@@ -11,7 +11,7 @@
 - Exported both dataframes into CSV files
 
 
-## Part 2 (Emmanuel Emahazion, Sabrina Fernandez, Tisha Conner)
+## Part 2 (Emanuel Emahazion, Sabrina Fernandez, Tisha Conner)
 ***
 - Created a new DataFrame named Campaign_df
 - Converted the goal and pledged columns to a float
@@ -36,10 +36,10 @@
 - The columns were reordered and the DataFrame was converted to a CSV file
 - 
 
-## Part 4 ((Emmanuel Emahazion, Sabrina Fernandez)
+## Part 4 ((Emanuel Emahazion, Sabrina Fernandez)
 ***
 - Created a entity relationship diagram after looking through the CSVs to understand what columns exist and what columns overlap
-- From the ERD (entity relationship diagram) we create a data base in pgadmin and separated tables according to each CSV.
+- From the ERD (entity relationship diagram) we create a data base in pgadmin and separate tables according to each CSV.
 - Imported the CSVs with primary keys first, as tables, and set the primary keys to each respective table.
 - Then set the foreign keys to the lone table with foreign keys.
 - Lastly we ran select statements for each table to see all of them are running within the database.
